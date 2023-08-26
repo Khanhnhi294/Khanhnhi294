@@ -1,0 +1,26 @@
+p{
+    margin: 0px;
+    padding: 3px;
+    font-family: Arial;
+    color: white;
+}
+#div-before, #div-after{
+ background-color: #8888dd;
+
+}
+#div-1{
+    padding: 10px;
+    background-color: black;
+
+}
+#div-1-a{
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+}
+#div-1-b
+{
+    background-color: green;
+}

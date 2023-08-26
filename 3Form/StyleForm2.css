@@ -1,0 +1,46 @@
+.nen{
+    background-color: darkgray;
+    width: 700px;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+
+.body{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box__input{
+    width: 400px;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.box__input input{
+    width: 70%;
+    margin-left: 10px;
+}
+
+.gender{
+    margin-right: 180px;
+}
+.submit{
+    float: right;
+    margin-left: 350px;
+    
+} 
+.submit input {
+   
+    background-color: orange;
+}
+.mot{
+    display: flex;
+}
+.icon{
+    background-attachment: blue;
+}

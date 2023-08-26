@@ -1,0 +1,25 @@
+h1,p{
+ font-family: Arial;
+ margin: 10px;
+ padding: 10px;
+
+}
+#main-title{
+    background-color: chartreuse;
+}
+#sub-title{
+    background-color: chocolate;
+}
+#p1{
+    background-color: red;
+}
+#p2{
+    background-color:green;
+}
+#p3{
+    background-color:blue;
+}
+.span-red{
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,72 @@
+.container {
+    width: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.btn-action {
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    gap:10px;
+    justify-content: center;
+}
+
+
+.btn-rg{
+    height: 30px;
+    width: auto;
+    background-color: #122fb3;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+
+#email {
+    width: 210px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+#name {
+    width: 210px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+#password {
+    width: 210px;
+    height: 20px;   
+    margin-bottom: 10px;
+}
+
+i {
+    width: 25px;
+    height: 25px;
+}
+
+.checkbox-top{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid gray;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+#checkbox {
+    border-radius: 10px;
+}
+
+a {
+    color: blue;
+}

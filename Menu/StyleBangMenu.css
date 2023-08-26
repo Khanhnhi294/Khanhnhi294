@@ -1,0 +1,39 @@
+.menu{
+    height: 50px;
+   padding: 15px 10px;
+    background-color: antiquewhite;
+    line-height: 30px;
+    
+}
+#menu1 li{
+    display: inline;
+    
+    padding: 40px 10px ;
+    list-style-type: none;
+    line-height: 30px;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    
+}
+ table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    
+}
+table img{
+    width:60px;
+}
+h1{
+    text-align: center;}
+   
+#dong1{
+    background-color: bisque;
+
+}
+
+button img{
+    width: 17px;
+}

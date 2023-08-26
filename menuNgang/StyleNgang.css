@@ -1,0 +1,42 @@
+.giaodienmenu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    background-color: antiquewhite;
+    grid-row-gap: 15px;
+    margin: 30px;
+    padding: 30px 30px;
+
+}
+.anh{
+    height: 200px;
+    width: 200px;
+}
+.tag{
+display: inline-block;
+ padding: 20px ;
+/* Màu nền của thẻ giá */
+ font-weight: bold;
+ color: red;
+}
+
+
+/* thanh menu */
+.thanhmenu{
+    height: 50px;
+   padding: 15px 10px;
+    background-color: antiquewhite;
+    line-height: 30px;
+    
+}
+#menu1 li{
+    display: inline;
+    
+    padding: 40px 10px ;
+    list-style-type: none;
+    line-height: 30px;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    
+}
